@@ -1,5 +1,6 @@
 
 [![Build Status](https://dev.azure.com/RajuRanjan/Space%20Game%20-%20web/_apis/build/status/raju-ranjan.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/RajuRanjan/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-05&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-05)
 
 # Contributing
 
